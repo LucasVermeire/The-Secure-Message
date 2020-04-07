@@ -1,0 +1,17 @@
+{
+  "bind_ucaddress": "192.168.132.146",
+  "bind_ucport": 12345,
+  "server_id": "server01.group1.chat",
+  "check_otp": false,
+  "bind_mcaddress": "228.32.35.5",
+  "bind_mcport": 1234,
+  "mgate_domain": "group1.chat",
+  "mgate_aes_key": "[INSERT_AES_KEY_HERE]",
+  "registered_users": [
+    {
+      "nickname": "Nouvel Utilisateur 16",
+      "sha384pass": "passSha384",
+      "base64otpkey": "MyOtpKey"
+    }
+  ]
+}

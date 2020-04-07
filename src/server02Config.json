@@ -1,0 +1,38 @@
+{
+  "bind_ucaddress": "localhost",
+  "bind_ucport": 58002,
+  "server_id": "server02.group2.chat",
+  "check_otp": true,
+  "bind_mcaddress": "224.45.56.67",
+  "bind_mcport": 23456,
+  "bind_network_interface_address": "192.168.133.11",
+  "mgate_domain": "group2.chat",
+  "mgate_aes_key": "xnOmPVZdgRda7beYI7INYg==",
+  "registered_users": [
+    {
+      "nickname": "Romuald",
+      "sha384pass": "e883ba35f23a039fc48eecb66d98f9c7ce5a24b2ab0808e609d55165526517a85b9833ae7d80844eb5fd6c5a386e9afe",
+      "base64otpkey": "V0ZXU1hOUVpERFY2M0JYUA\u003d\u003d"
+    },
+    {
+      "nickname": "Nicolas",
+      "sha384pass": "e883ba35f23a039fc48eecb66d98f9c7ce5a24b2ab0808e609d55165526517a85b9833ae7d80844eb5fd6c5a386e9afe",
+      "base64otpkey": "SjNSNk1VQUFHQTNRNVQ0Qw\u003d\u003d"
+    },
+    {
+      "nickname": "Romain",
+      "sha384pass": "e883ba35f23a039fc48eecb66d98f9c7ce5a24b2ab0808e609d55165526517a85b9833ae7d80844eb5fd6c5a386e9afe",
+      "base64otpkey": "SUpMUkZBQ1ZaN1hVTzJTTw\u003d\u003d"
+    },
+    {
+      "nickname": "Lucas",
+      "sha384pass": "e883ba35f23a039fc48eecb66d98f9c7ce5a24b2ab0808e609d55165526517a85b9833ae7d80844eb5fd6c5a386e9afe",
+      "base64otpkey": "V1lDWFJEVFBQMjdRT0g2Sg\u003d\u003d"
+    },
+    {
+      "nickname": "Arthur",
+      "sha384pass": "e883ba35f23a039fc48eecb66d98f9c7ce5a24b2ab0808e609d55165526517a85b9833ae7d80844eb5fd6c5a386e9afe",
+      "base64otpkey": "VDJEUzZQUURFTEdVMkRBWQ\u003d\u003d"
+    }
+  ]
+}

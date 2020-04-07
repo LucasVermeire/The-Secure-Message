@@ -1,0 +1,13 @@
+{
+  "bind_ucaddress": "localhost",
+  "bind_ucport": 58001,
+  "server_id": "server01.group2.chat",
+  "check_otp": true,
+  "bind_mcaddress": "224.45.56.67",
+  "bind_mcport": 23456,
+  "bind_network_interface_address": "192.168.133.11",
+  "mgate_domain": "group2.chat",
+  "mgate_aes_key": "236B7NdYdFe4OB/YA+k9rg==",
+  "registered_users": [
+  ]
+}

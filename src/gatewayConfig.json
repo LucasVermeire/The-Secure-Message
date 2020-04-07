@@ -1,0 +1,14 @@
+{
+  "bind_ucaddress": "localhost",
+  "bind_ucport": 58000,
+  "bind_mcaddress": "224.45.56.67",
+  "bind_mcport": 23456,
+  "bind_network_interface_address": "192.168.133.11",
+  "announce_interval": 30,
+  "mgate_domain": "group2.chat",
+  "aes_keys": {
+    "server01.group2.chat" : "C097+rypVa6i3IqCSfIIKg==",
+    "server02.group2.chat" : "xnOmPVZdgRda7beYI7INYg==",
+    "server03.group2.chat" : "6TeLpijFj2BtYCpSr1Wc5Q=="
+  }
+}
